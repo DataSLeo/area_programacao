@@ -1,0 +1,1 @@
+Praticando o System.nanoTime() no Java para verificar quanto tempo demora um for de 1000.
