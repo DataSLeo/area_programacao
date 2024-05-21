@@ -1,0 +1,1 @@
+Praticando casting explicito no Java.

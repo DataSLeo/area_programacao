@@ -1,0 +1,1 @@
+Projeto de IMC (índice de massa corpórea) no Java, usando a classe IMC de forma externa.
